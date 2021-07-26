@@ -13,6 +13,7 @@ Na resolução deste trabalho deve ser utilizada a Linguagem de Programação C.
 - Evite duplicação de código. 
 - Considere a implementação de funções para melhorar a legibilidade, evitar a duplicação e criar soluções mais genéricas.
 - É proíbida a utilização de variáveis globais - i.e. variáveis declaradas fora de qualquer função.
+- Recomenda-se a não utilização da biblioteca de sistema string.h.
 
 ## Descrição do problema
 Faça um programa que lê uma string do stdin e imprime no stdout a mesma string invertida. A string deverá ter um máximo de 16 caracteres (excluíndo o caracter terminador).
